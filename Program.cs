@@ -3,10 +3,16 @@ using System.Text.RegularExpressions;
 
 int CountSimpleNumbers(string characterSequence)
 {
-    string pattern = @"\D\d\D";
-    Regex regex = new Regex(pattern);
-    MatchCollection matches = regex.Matches(characterSequence);
-    return matches.Count();
+    string pattern = @"\d+";
+          Regex regex = new Regex(pattern);
+          MatchCollection matches = regex.Matches(characterSequence);
+          int count = 0;
+          foreach(Match m in matches) {
+            if(m.Length == 1) {
+               count++;
+            }
+          }
+         return count;
 
 }
 
