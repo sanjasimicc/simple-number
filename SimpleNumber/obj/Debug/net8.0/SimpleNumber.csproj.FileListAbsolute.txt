@@ -1,0 +1,11 @@
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/bin/Debug/net8.0/SimpleNumber.deps.json
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/bin/Debug/net8.0/SimpleNumber.dll
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/bin/Debug/net8.0/SimpleNumber.pdb
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/obj/Debug/net8.0/SimpleNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/obj/Debug/net8.0/SimpleNumber.AssemblyInfoInputs.cache
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/obj/Debug/net8.0/SimpleNumber.AssemblyInfo.cs
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/obj/Debug/net8.0/SimpleNumber.csproj.CoreCompileInputs.cache
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/obj/Debug/net8.0/SimpleNumber.dll
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/obj/Debug/net8.0/refint/SimpleNumber.dll
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/obj/Debug/net8.0/SimpleNumber.pdb
+/home/sigmoid/Desktop/Praksa/simple-numbers-assignment/SimpleNumber/obj/Debug/net8.0/ref/SimpleNumber.dll
