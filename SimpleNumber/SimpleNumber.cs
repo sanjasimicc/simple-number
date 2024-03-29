@@ -8,7 +8,7 @@ public class SimpleNumber
      private static readonly string characterSequence = "2024. godine će se održati 6. svetsko prvenstvo u boćanju.";
      private static int CountSimpleNumbers(string characterSequence) {
          string pattern = @"\D\d\D";
-          Regex regex = new Regex(pattern, RegexOptions.IgnoreCase | RegexOptions.CultureInvariant);
+          Regex regex = new Regex(pattern);
           MatchCollection matches = regex.Matches(characterSequence);
          return matches.Count();
          
